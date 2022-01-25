@@ -33,9 +33,9 @@
         artemis_layer {
             label = "artemis";
             bindings = <
-                &kp W     &kp C &kp Y &kp P &kp B        &kp J    &kp X &kp U     &kp O   &kp Q
-                &kp R     &kp S &kp T &kp H &kp D        &kp L    &kp N &kp E     &kp A   &kp I
-                &kp GRAVE &kp V &kp G &kp F &kp K        &kp FSLH &kp M &kp COMMA &kp DOT &kp SEMI
+                &kp W     &kp C &kp Y &kp P &kp K        &kp J    &kp X &kp U     &kp O   &kp Q
+                &kp R     &kp S &kp T &kp H &kp B        &kp M    &kp N &kp E     &kp A   &kp I
+                &kp GRAVE &kp F &kp G &kp D &kp V        &kp FSLH &kp L &kp COMMA &kp DOT &kp SEMI
                             &skq LSHFT &sl navi                     &kp SQT &kp SPACE
             >;
         };
